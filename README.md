@@ -63,6 +63,8 @@ _Object detection and emergency alert system using YOLOv5._
 _Responsive and modern web design showcasing my work._  
 [Live Site](#) | [GitHub](https://tharunputani.github.io/MY-PORTIFOLIO/)
 
+For more Fun and Interesting Projects vist my Github Repositories
+
 ---
 
 ## 📈 GitHub Stats
@@ -77,7 +79,7 @@ _Responsive and modern web design showcasing my work._
 ## 🧩 Fun Facts
 
 - 🤖 I'm a huge fan of AI, cybersecurity, and open-source.
-- 🏀 I love basketball and have represented under-18 teams.
+- 🏀 I love basketball
 - 💡 I enjoy solving problems, whether in code or real life!
 
 ---
