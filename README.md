@@ -70,9 +70,14 @@ For more Fun and Interesting Projects vist my Github Repositories
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PutaniTharun&show_icons=true&theme=react" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PutaniTharun&theme=react" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PutaniTharun&show_icons=true&theme=react&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=PutaniTharun&theme=react&hide_border=true" width="47%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutaniTharun&layout=compact&theme=react&hide_border=true" width="47%"/>
+</p>
+
 
 ---
 
