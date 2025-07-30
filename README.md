@@ -49,7 +49,7 @@ _Enhanced with real-world datasets, emoji feedback, and visual charts._
 
 🔹 **Iris Flower Classification App**  
 _Enhanced with real-world datasets, emoji feedback, and visual charts._  
-[GitHub Repo]((https://vzfrsidirpvwfip3fzogyc.streamlit.app/))
+[GitHub Repo](https://vzfrsidirpvwfip3fzogyc.streamlit.app/)
 
 🔹 **Full-Stack Intern Projects at Bisplus 4U**  
 _Built scalable web apps using MERN stack._  
@@ -86,7 +86,7 @@ _Responsive and modern web design showcasing my work._
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tharun-putani-b72b69227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:putanitharun@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:tharunputani@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
