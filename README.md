@@ -67,16 +67,6 @@ For more Fun and Interesting Projects vist my Github Repositories
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THARUNPUTANI&show_icons=true&theme=react&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=THARUNPUTANI&theme=react&hide_border=true" width="47%"/>
-</p>
-
-
----
-
 ## 🧩 Fun Facts
 
 - 🤖 I'm a huge fan of AI, cybersecurity, and open-source.
